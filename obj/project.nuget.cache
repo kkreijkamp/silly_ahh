@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0hBK65TeGhNnZsoA64vfyleROnY+WtFATDf2jhr0+aGpfxDNhdfAHCHXApJJ4ESIRWBERq12u1+32tih/MTitQ==",
+  "dgSpecHash": "SyS8NJS5o0fRJaX1u6awceJhV29rA4+LIHD1SeOe+vMkYZMUK7v0ymbgHtgB2nT8VH+zqUmdFHGM0R60USwh0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\source\\repos\\Visual\\Visual.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kali/HTB/Visual/bab/silly_ahh/silly_ahh.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
